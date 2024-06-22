@@ -7,7 +7,7 @@
         }
     ],
     
-        "routesz":[
+        "routes":[
             {
                 "src":"(.*)",
                 "dest":"/"
